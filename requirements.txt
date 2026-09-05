@@ -1,0 +1,9 @@
+numpy
+scipy
+scikit-learn
+matplotlib
+
+# Add these once you move to real BEATs on your own machine (see
+# src/encoders/beats_encoder.py for setup steps):
+# torch
+# torchaudio
